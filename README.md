@@ -27,7 +27,7 @@
 
 - 시연영상
 
-**[시연영상 링크](https://www.youtube.com/watch?v=Jo-R4J9yXz4)**
+**[시연영상 링크](https://www.youtube.com/watch?v=Z2yqGBkO0v4)**
 
 ## 실행
 ```bash
